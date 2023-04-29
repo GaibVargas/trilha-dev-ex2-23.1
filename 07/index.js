@@ -1,5 +1,7 @@
 // Crie sua função aqui
-
+function sumArray(numbers) {
+  return numbers.reduce((acc, cur) => acc + cur, 0)
+}
 
 // Não altere as linhas abaixo
 console.log(sumArray([0, 1, 2, 3, 4, 5]))
