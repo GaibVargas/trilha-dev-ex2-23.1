@@ -6,7 +6,7 @@ e retorne o segundo maior número do array, utilize a função sort.
 
 ## Saída esperada
 ```
-5
-30
+4
+20
 null
 ```
