@@ -35,3 +35,7 @@ Esse comando irá executar o arquivo index.js que se encontra na pasta nomeada c
 Caso o nome do arquivo não seja index.js, é necessário informar o caminho completo, vide exemplo:
 
 `node ./pasta/nome_arquivo.js`
+
+
+### Respostas
+Nesse [link](https://github.com/GaibVargas/trilha-dev-ex2-23.1) é possível ter acesso a uma possível resolução dos exercícios. A recomendação é olhar após terminar os exercícios ou quando ficar sem ideias de como resolver um determinado exercício.
