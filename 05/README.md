@@ -1,6 +1,6 @@
 # Exercício 5
 
-No arquivo index.js crie uma função chamada eventArray que recebe um número como parâmetro
+No arquivo index.js crie uma função chamada evenArray que recebe um número como parâmetro
 e retorne um array com os números pares de 0 até o número de entrada.
 
 

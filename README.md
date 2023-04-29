@@ -23,6 +23,8 @@ Para isso, você irá baixar este repositório para sua máquina local, e resolv
    - `git commit -m "Add resolução do exercício 01"`
 1. Publique a branch e envie sua adição para o repositório remoto
    - `git push -u origin new/nome-sobrenome`
+1. Crie um *pull request* e de *merge* nas suas mudanças
+1. Compartilhe o link do seu repositório com suas respostas com os instrutores
 
 ### Requisitos e como rodar scripts .js
 Para conseguir rodas scripts em Javascript no seu computador é necessário que você tenha o Node.js instalado na sua máquina. Uma vez que tenha o Node.js instalado, e seu script esteja finalizado rode o seguinte comando:
